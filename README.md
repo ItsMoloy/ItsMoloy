@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Boy Coding" width="300" src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif">
+<img align="right" alt="Boy Coding" width="300" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
 
 
 -🎓 BSc in Software Engineering at Shahjalal University of Science and Technology
