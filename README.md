@@ -131,12 +131,12 @@
       <td width="50%">
         <h3 align="center">🗳️ Portfolio</h3>
         <div align="center">
-          <a href="https://github.com/Amitsharma2468/Happy-Voting" target="_blank">
+          <a href="https://itsmoloy.github.io/Portfolio-HTML.CSS.JS/" target="_blank">
             <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github" />
           </a>
           <br/><br/>
           <p><strong>Personal Portfolio</strong></p>
-          <p>⚡ HTML ,CSS ,Javascript,JQuery</p>
+          <p>⚡ HTML ,CSS ,Javascript</p>
         </div>
       </td>
     </tr>
