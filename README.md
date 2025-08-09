@@ -1,79 +1,215 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="The Architect" />
+  <h1>Future Software Engineer</h1>
+</div>
 
-👋 Hi, I'm Moloy Banerjee
-Welcome to my GitHub! I'm a passionate Software Engineering student at Shahjalal University of Science and Technology (SUST), driven by a love for coding, problem-solving, and building innovative solutions. I enjoy exploring new technologies, contributing to open-source projects, and creating software that makes an impact.
+<h1 align="center">
+  👋
+  Hey there! I'm 
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=450&lines=Moloy+Banerjee;Full+Stack+MERN+Developer;Open+Source+Contributor;Software+Engineer" />
+</h1>
 
-🚀 About Me
+<div align="center">
+   <a href="https://itsmoloy.github.io/Portfolio/">
+     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:moloy21@student.sust.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Moloy_Banerjee/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ItsMoloy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-🎓 Studying: B.Sc. in Software Engineering at SUST
-🌍 Location: Sylhet, Bangladesh
-💻 Interests: Web Development, data Structure & Algorithms, Machine Learning, and Object Oriented Programming
-🌱 Currently Learning: MERN Stack development
-🎯 Goals: Build impactful software solutions and contribute to the global tech community
-📫 Reach Me: Email | LinkedIn | Portfolio
+<br/>
 
+## 👨‍💻 About Me
 
-🛠️ Skills
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif">
 
+-🎓 BSc in Software Engineering at Shahjalal University of Science and Technology
 
+-💻 Passionate Full Stack Developer specializing in building modern, user-friendly web applications
 
-Category
-Technologies
+-🌱 Continuously learning and experimenting with the latest technologies and best practices
 
+-🔧 Skilled in designing scalable architectures and writing clean, maintainable code
 
+-🤝 Enthusiastic about collaborating on open source projects and growing in a team environment
 
-Programming
-Python, JavaScript, C , C++, Java
+-💥 Driven to break barriers and build solutions that make a real impact
+<br/>
 
+## 🛠️ Tech Arsenal
 
-Web Development
-HTML, CSS, Javascript, React, Node.js, Express
+<div align="center">
+ [ <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=2000&pause=500&color=F39C12&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+MERN+Specialist+%7C+Problem+Solver" />
+</div>
 
+### 💻 Frontend Development
 
-Databases
-MySQL, MongoDB
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui,redux,bootstrap" />
+</div>
 
+### ⚙️ Backend Development
 
-Tools & Platforms
-Git , VS Code , JetBrains IntelliJ IDEA , Atom
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp,php,graphql" />
+</div>
 
+### 🗄️ Database & Cloud
 
-Others
-Data Structures, Algorithms, REST APIs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,cloudflare" />
+</div>
 
+### 🔧 DevOps & Tools
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma" />
+</div>
 
-🌟 Featured Projects
-Here are some of my favorite projects that showcase my skills and passion:
-📱 Project Name 1
+### 📱 Mobile & Others
 
-Description: A mobile app for [Doctor Appointment] using [React Native].
-Tech Stack: Expo
-Highlights: Implemented [Homepage,DoctorCards,Appointment,Checkout,Payment Integration,PDF Download].
-Status: 🟢 Actively Maintained
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,tensorflow,opencv,kotlin,React Native" />
+</div>
 
-🤖 Project Name 2
+<br/>
 
-Description: A Hospital Management System for [Patient,Doctor,Admin] with a user-friendly interface.
-Tech Stack: React ,Node.js , Express ,MongoDB
-Highlights: Achieved [Perfect management], deployed on [Vercel].
-Status: 🟡 Done
+## 🚀 Featured Projects
 
-📊 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎓 Android 250 Project </h3>
+        <div align="center">
+          <a href="https://github.com/ItsMoloy/Android_250.git" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" />
+          </a>
+          <br/><br/>
+          <p><strong>Hospital Management System</strong></p>
+          <p>🔐 Using React Native</p>
+          <p>👥 Download The PDF Copy of Appointment</p>
+          <p>⚡ Built with React Native and Expo as the Framewok</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Doctor Appointment System</h3>
+        <div align="center">
+          <a href="https://github.com/ItsMoloy/Doctor-Appointment-System.git" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" />
+          </a>
+          <br/><br/>
+          <p><strong>Doctor Appointment as a Web Tech Project</strong></p>
+          <p>🛠️Added User and Admin Panel</p>
+          <p>⚡ Built with React ,Js ,Node.js ,Express, MongoDB </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 350-Ebook Store</h3>
+        <div align="center">
+          <a href="https://github.com/ItsMoloy/Ebook-store" target="_blank">
+            <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github" />
+          </a>
+          <br/><br/>
+          <p><strong>User and Admin Panel</strong></p>
+          <p>⚡ React,Node.js, Express, Firebase,MongoDB,Redux ToolKit </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🗳️ Portfolio</h3>
+        <div align="center">
+          <a href="https://github.com/Amitsharma2468/Happy-Voting" target="_blank">
+            <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github" />
+          </a>
+          <br/><br/>
+          <p><strong>Personal Portfolio</strong></p>
+          <p>⚡ HTML ,CSS ,Javascript,JQuery</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMoloy&show_icons=true&theme=radical)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ItsMoloy&theme=react-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsMoloy)
+<br/>
 
+## 🏆 Achievements & Recognition
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        🏆
+        <br/><strong>Codeforces </strong>
+        <br/>Problem Solving and Brainstorm
+      </td>
+      <td align="center" width="25%">
+        🎓
+        <br/><strong>BCC-ICT Certified</strong>
+        <br/>Python & Data Science
+      </td>
+    </tr>
+  </table>
+</div>
 
-🤝 Let's Connect!
-I'm always open to collaborating on exciting projects or discussing tech ideas. Feel free to reach out!
+<br/>
 
-📧 Email: moloyswe20@gmail.com
-🌐 Portfolio:[(https://itsmoloy.github.io/Portfolio/)](https://itsmoloy.github.io/Portfolio/)
-💼 LinkedIn: Moloy Banerjee
-🐦 X: @moloy_banerjee
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsMoloy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMoloy&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMoloy&theme=tokyonight" />
+</div>
 
-"Code is like poetry; it’s not just about functionality but also about elegance and impact."Let's build something amazing together! 🚀
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMoloy&theme=tokyo-night" />
+</div>
+
+<br/>
+
+## 📞 Let's Connect!
+
+<div align="center">
+  <a href="https://itsmoloy.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:moloy21@student.sust.edu" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Moloy_Banerjeet/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-45B7D1?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/ItsMoloy" target="_blank">
+    <img src="https://img.shields.io/badge/💻_GitHub-96CEB4?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+  <p><em>“I have not failed. I've just found 10,000 ways that won't work.” — Thomas Edison</em></p>
+  <p>Made with ❤️ by Moloy Banerjee</p>
+</div>
