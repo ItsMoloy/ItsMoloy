@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="The Architect" />
+  <img align="right" alt="Moloy Banerjee" width="200" src="https://github.com/ItsMoloy/main/pro.jpg" style="border-radius: 10px; margin-left: 20px;" />
+
   <h1>Future Software Engineer</h1>
 </div>
 
