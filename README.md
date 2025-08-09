@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" alt="Moloy Banerjee" width="200" src="pro.jpg" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img align="center" alt="Moloy Banerjee" width="200" src="pro.jpg" style="border-radius: 10px; margin-top: 20px;" />
 
   <h1>Future Software Engineer</h1>
 </div>
