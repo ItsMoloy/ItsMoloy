@@ -207,7 +207,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=black&height=100&section=footer" />
 </div>
 
 
