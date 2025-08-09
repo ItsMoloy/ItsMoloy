@@ -132,7 +132,7 @@
         <h3 align="center">🗳️ Portfolio</h3>
         <div align="center">
           <a href="https://itsmoloy.github.io/Portfolio-HTML.CSS.JS/" target="_blank">
-            <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github" />
+            <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" />
           </a>
           <br/><br/>
           <p><strong>Personal Portfolio</strong></p>
