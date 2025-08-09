@@ -202,13 +202,16 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+                        max-width: 500px; margin: 30px auto; padding: 20px; 
+                        border: 2px solid #1d3557; border-radius: 10px; background-color: #a8dadc; 
+                        color: #1d3557; font-size: 20px; font-style: italic;">
+  “Fall seven times, stand up eight.”
+  <br>
+  <span style="font-weight: bold; font-style: normal; font-size: 18px;">– Japanese Proverb</span>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=black&height=100&section=footer" />
-</div>
+
 
 
 ---
