@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding Guy" width="300" src="https://media.giphy.com/media/l0HlQ7LRalh41CV8k/giphy.gif">
+<img align="right" alt="Coding Guy" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 
 -🎓 BSc in Software Engineering at Shahjalal University of Science and Technology
@@ -79,7 +79,7 @@
 ### 📱 Mobile & Others
 
 <div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,tensorflow,opencv,kotlin,React Native" 
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,tensorflow,opencv,kotlin,reactnative" 
        alt="Skill Icons" 
        style="max-width: 100%; height: auto; display: inline-block;" />
 </div>
