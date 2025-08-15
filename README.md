@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" alt="Moloy Banerjee" width="200" src="pro.jpg" style="border-radius: 10px; margin-top: 20px;" />
 
-  <h1>Future Software Engineer</h1>
+  <h1>A Student of Software Engineering ,SUST</h1>
 </div>
 
 <h1 align="center">
