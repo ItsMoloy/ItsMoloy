@@ -128,8 +128,6 @@
           <p>⚡ Built with React Native and Expo as the Framewok</p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%">
         <h3 align="center">Project 350-Ebook Store</h3>
         <div align="center">
@@ -141,6 +139,8 @@
           <p>⚡ React,Node.js, Express, Firebase,MongoDB,Redux ToolKit </p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
         <h3 align="center">🗳️ Portfolio</h3>
         <div align="center">
