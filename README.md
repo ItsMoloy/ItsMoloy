@@ -128,18 +128,6 @@
           <p>⚡ Built with React Native and Expo as the Framewok</p>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">Doctor Appointment System</h3>
-        <div align="center">
-          <a href="https://github.com/ItsMoloy/Doctor-Appointment-System.git" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" />
-          </a>
-          <br/><br/>
-          <p><strong>Doctor Appointment as a Web Tech Project</strong></p>
-          <p>🛠️Added User and Admin Panel</p>
-          <p>⚡ Built with React ,Js ,Node.js ,Express, MongoDB </p>
-        </div>
-      </td>
     </tr>
     <tr>
       <td width="50%">
